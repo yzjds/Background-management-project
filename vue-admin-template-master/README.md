@@ -58,6 +58,12 @@ Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/gui
 ## Demo
 
 ![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
+![chrome-capture](https://user-images.githubusercontent.com/87921738/140531519-22a8ef17-d3e8-4793-a7e3-6d01eee28240.jpg)
+![chrome-capture (2)](https://user-images.githubusercontent.com/87921738/140531626-63d5d6d1-6a7a-4481-baa5-cc67d64d4a47.jpg)
+![chrome-capture (3)](https://user-images.githubusercontent.com/87921738/140531643-e6128f96-9c19-4449-a089-3889825255dd.jpg)
+![chrome-capture (4)](https://user-images.githubusercontent.com/87921738/140531654-f796782a-2166-44a3-aa16-8ec7f6f9f5eb.jpg)
+![chrome-capture (5)](https://user-images.githubusercontent.com/87921738/140531668-3984997a-90d7-4ed5-971d-1c56303e90e7.jpg)
+
 
 ## Extra
 
